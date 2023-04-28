@@ -1,0 +1,19 @@
+{
+  "name": "t4-mine",
+  "version": "1.0.0",
+  "description": "application to send skin textures to minecraft",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhyan-eduardo/t4-mine.git"
+  },
+  "author": "Rhyan Eduardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rhyan-eduardo/t4-mine/issues"
+  },
+  "homepage": "https://github.com/Rhyan-eduardo/t4-mine#readme"
+}
